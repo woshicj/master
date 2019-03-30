@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/manythings_basic_parent" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/manythings_basic_parent/manythings_basic_util" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/manythings_common_parents" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/manythings_common_parents/manythings_common_interface" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/manythings_common_parents/manythings_common_service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/manythings_eureka_server_7001" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/manythings_plat_parent" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/manythings_plat_parent/manythings_plat_interface" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/manythings_plat_parent/manythings_plat_service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/manythings_product_parent" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/manythings_product_parent" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/manythings_product_parent/manythings_product_interface" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/manythings_product_parent/manythings_product_interface" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/manythings_product_parent/manythings_product_service_8002" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/manythings_product_parent/manythings_product_service_8002" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/manythings_product_parent_" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/manythings_zuul_server_9527" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/manythins_config_server_1299" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mpcode_generator" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="manythings_basic_util" />
+        <module name="manythings_common_interface" />
+        <module name="manythings_common_service" />
+        <module name="manythings_eureka_server_7001" />
+        <module name="manythings_plat_interface" />
+        <module name="manythings_plat_service" />
+        <module name="manythings_product_interface" />
+        <module name="manythings_product_service_8002" />
+        <module name="manythings_zuul_server_1922" />
+        <module name="manythings_zuul_server_9527" />
+        <module name="manythins_config_server_1299" />
+        <module name="manythins_config_server_9527" />
+        <module name="mpcode_generator" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="manythings_basic_parent" target="1.7" />
+      <module name="manythings_basic_util" target="1.7" />
+      <module name="manythings_common_interface" target="1.7" />
+      <module name="manythings_common_parents" target="1.5" />
+      <module name="manythings_common_service" target="1.8" />
+      <module name="manythings_eureka_server_7001" target="1.5" />
+      <module name="manythings_plat_interface" target="1.5" />
+      <module name="manythings_plat_parent" target="1.5" />
+      <module name="manythings_plat_service" target="1.5" />
+      <module name="manythings_product_interface" target="1.7" />
+      <module name="manythings_product_parent" target="1.5" />
+      <module name="manythings_product_parent_" target="1.5" />
+      <module name="manythings_product_service_8002" target="1.7" />
+      <module name="manythings_service_8002" target="1.5" />
+      <module name="manythings_zuul_server_1922" target="1.5" />
+      <module name="manythings_zuul_server_9527" target="1.6" />
+      <module name="ManythingsMakret_parents" target="1.5" />
+      <module name="manythins_basic_parent" target="1.5" />
+      <module name="manythins_config_server_1299" target="1.5" />
+      <module name="manythins_config_server_9527" target="1.5" />
+      <module name="mpcode_generator" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ManythingsMakret_parents.iml" filepath="$PROJECT_DIR$/ManythingsMakret_parents.iml" />
+      <module fileurl="file://$PROJECT_DIR$/manythings_basic_parent/manythings_basic_parent.iml" filepath="$PROJECT_DIR$/manythings_basic_parent/manythings_basic_parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/manythings_basic_parent/manythings_basic_util/manythings_basic_util.iml" filepath="$PROJECT_DIR$/manythings_basic_parent/manythings_basic_util/manythings_basic_util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/manythings_common_parents/manythings_common_interface/manythings_common_interface.iml" filepath="$PROJECT_DIR$/manythings_common_parents/manythings_common_interface/manythings_common_interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/manythings_common_parents/manythings_common_parents.iml" filepath="$PROJECT_DIR$/manythings_common_parents/manythings_common_parents.iml" />
+      <module fileurl="file://$PROJECT_DIR$/manythings_common_parents/manythings_common_service/manythings_common_service.iml" filepath="$PROJECT_DIR$/manythings_common_parents/manythings_common_service/manythings_common_service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/manythings_eureka_server_7001/manythings_eureka_server_7001.iml" filepath="$PROJECT_DIR$/manythings_eureka_server_7001/manythings_eureka_server_7001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/manythings_plat_parent/manythings_plat_interface/manythings_plat_interface.iml" filepath="$PROJECT_DIR$/manythings_plat_parent/manythings_plat_interface/manythings_plat_interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/manythings_plat_parent/manythings_plat_parent.iml" filepath="$PROJECT_DIR$/manythings_plat_parent/manythings_plat_parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/manythings_plat_parent/manythings_plat_service/manythings_plat_service.iml" filepath="$PROJECT_DIR$/manythings_plat_parent/manythings_plat_service/manythings_plat_service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/manythings_product_parent/manythings_product_interface/manythings_product_interface.iml" filepath="$PROJECT_DIR$/manythings_product_parent/manythings_product_interface/manythings_product_interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/manythings_product_parent/manythings_product_parent.iml" filepath="$PROJECT_DIR$/manythings_product_parent/manythings_product_parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/manythings_product_parent/manythings_product_service_8002/manythings_product_service_8002.iml" filepath="$PROJECT_DIR$/manythings_product_parent/manythings_product_service_8002/manythings_product_service_8002.iml" />
+      <module fileurl="file://$PROJECT_DIR$/manythings_zuul_server_9527/manythings_zuul_server_9527.iml" filepath="$PROJECT_DIR$/manythings_zuul_server_9527/manythings_zuul_server_9527.iml" />
+      <module fileurl="file://$PROJECT_DIR$/manythins_config_server_1299/manythins_config_server_1299.iml" filepath="$PROJECT_DIR$/manythins_config_server_1299/manythins_config_server_1299.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mpcode_generator/mpcode_generator.iml" filepath="$PROJECT_DIR$/mpcode_generator/mpcode_generator.iml" />
+    </modules>
+  </component>
+</project>
